@@ -1,0 +1,17 @@
+{
+  "name": "SaloonApp",
+  "displayName": "SaloonApp",
+  "expo": {
+    "name": "SaloonApp",
+    "slug": "SaloonApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
