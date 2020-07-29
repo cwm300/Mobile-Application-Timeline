@@ -1,4 +1,4 @@
 # SaloonApp
 React Native Mobile App
 
-Group Social Media Platform
+Timeline only at the moment.
