@@ -1,4 +1,6 @@
-# SaloonApp
-React Native Mobile App
+# Mobile-Application-Timeline
 
-Timeline only at the moment.
+The beginnings of a React Native Mobile App.
+
+Timeline (social feed) only at the moment.
+
